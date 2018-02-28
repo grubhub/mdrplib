@@ -1,0 +1,37 @@
+number of orders: 1671
+number of restaurants: 256
+number of couriers: 234
+total courier hours: 787.58
+operating period (minutes): 854
+
+degree of dynamism: 0.39
+
+
+      meters from restaurant to delivery location  minutes from restaurant to delivery location
+mean                                      2225.92                                          5.81
+std                                       1515.86                                          3.63
+min                                         34.37                                          1.00
+10%                                        552.55                                          2.00
+50%                                       1917.36                                          5.00
+90%                                       4435.19                                         11.00
+max                                       9667.71                                         24.00
+
+
+      meters between restaurants  minutes between restaurants
+mean                     5938.69                        14.68
+std                      4710.82                        11.25
+min                         5.83                         1.00
+10%                      1398.31                         4.00
+50%                      4925.82                        12.00
+90%                     11039.02                        27.00
+max                     41927.32                       101.00
+
+
+      preparation  soft_response_time  hard_response_time  soft_pickup_flex  hard_pickup_flex
+mean        16.31               32.04               84.14             18.53             67.90
+std         11.26                9.20                4.17              9.93             11.58
+min          0.00                0.00                0.00              0.00              0.00
+10%          3.00               27.00               79.00              3.00             53.00
+50%         15.00               35.00               85.00             20.00             70.00
+90%         30.00               38.00               88.00             31.00             81.00
+max        115.00               39.00               89.00             38.00             88.00

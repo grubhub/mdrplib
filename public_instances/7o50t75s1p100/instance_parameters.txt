@@ -1,0 +1,2 @@
+meters_per_minute	pickup service minutes	dropoff service minutes	target click-to-door	maximum click-to-door	pay per order	guaranteed pay per hour
+419	4	4	40	90	10	15
