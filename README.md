@@ -20,4 +20,4 @@ The `public_instances` folder contains 240 instances using anonymized data from 
 
 Each instance is then labeled by concatenating the labels of the sets to which it belongs. For example: `1o50s2t100p125` is the instance derived from seed 1, by reducing its size by 50% on the order set, using an optimized courier schedule, original travel speed, and longer preparation times; and seed 1 is represented as `1o100s1t100p100`.
 
-The folder `MDRP_code` contains the solution evaluator script. 
+The folder `MDRP_code` contains the solution evaluator script. [MDRPInstances.pdf](MDRPInstances.pdf?raw=true) provides a complete description of the Meal Delivery Routing Problem and the test instance set.
